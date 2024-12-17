@@ -12,7 +12,7 @@ Mentor: NEELA SANTHOSH KUMAR
 
 Overview of the Project
 
-Project: To create a Python program that acts as a basic calculator.
+**Project: To create a Python program that acts as a basic calculator.
 
 Objective
 
